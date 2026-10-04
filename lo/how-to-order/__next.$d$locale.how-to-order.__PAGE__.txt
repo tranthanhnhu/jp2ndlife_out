@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+8:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+9:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+b:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+c:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+6:X
+e:X
+e:C
+0:{"buildId":"yw6RrMFjLq_nIldyxlJTe","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-12","children":[["$","h1",null,{"className":"text-3xl font-black text-lao-green","children":"ວິທີສັ່ງຊື້"}],["$","div",null,{"className":"mt-8 space-y-4","children":[["$","div","ເບິ່ງເຄຣື່ອງໃນເວັບ",{"className":"rounded-2xl bg-white p-6 shadow","children":[["$","div",null,{"className":"text-sm font-black text-gold","children":["0",1]}],["$","h2",null,{"className":"mt-1 text-xl font-bold text-ink","children":"ເບິ່ງເຄຣື່ອງໃນເວັບ"}],["$","p",null,{"className":"mt-2 text-muted","children":"ເລືອກໝວດ ແລະ ກອງຕາມ HP / ຊົ່ວໂມງ / ລາຄາ"}]]}],["$","div","ໂທ ຫຼື WhatsApp",{"className":"rounded-2xl bg-white p-6 shadow","children":[["$","div",null,{"className":"text-sm font-black text-gold","children":["0",2]}],["$","h2",null,{"className":"mt-1 text-xl font-bold text-ink","children":"ໂທ ຫຼື WhatsApp"}],["$","p",null,{"className":"mt-2 text-muted","children":"ທີມໃຫ້ຄຳປຶກສາຟຣີ 24/7"}]]}],["$","div","ໄດ້ຮັບໃບສະເໜີລາຄາ",{"className":"rounded-2xl bg-white p-6 shadow","children":[["$","div",null,{"className":"text-sm font-black text-gold","children":["0",3]}],["$","h2",null,{"className":"mt-1 text-xl font-bold text-ink","children":"ໄດ້ຮັບໃບສະເໜີລາຄາ"}],["$","p",null,{"className":"mt-2 text-muted","children":"ລາຄາຊັດເຈນ + ທາງເລືອກຜ່ອນຊຳລະ"}]]}],["$","div","ສົ່ງເຖິງທົ່ງນາ",{"className":"rounded-2xl bg-white p-6 shadow","children":[["$","div",null,{"className":"text-sm font-black text-gold","children":["0",4]}],["$","h2",null,{"className":"mt-1 text-xl font-bold text-ink","children":"ສົ່ງເຖິງທົ່ງນາ"}],["$","p",null,{"className":"mt-2 text-muted","children":"ທົດສອບເຄຣື່ອງກ່ອນມອບ ແລະ ຮັບປະກັນ"}]]}]]}],["$","p",null,{"className":"mt-8 text-center font-bold text-crimson","children":"+856 20 52 016 789"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"JAPAN 2ND LIFE | ຍີ່ປຸ່ນມືສອງ — ເຄຣື່ອງກະສິກົາ"}],["$","meta","1",{"name":"description","content":"ເຄຣື່ອງไຖນາ ແລະ ອຸປະກອນກະສິກົາ ນໍາເຂົ້າຈາກຍີ່ປຸ່ນ"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","3",{"rel":"icon","href":"/brand/logo.svg"}],["$","$L9","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@a","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$6","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+4:null
+10:true
+6:300
+6:C
+f:0
+a:"$undefined"
+d:"$undefined"
+5:"$undefined"

@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+8:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+9:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+b:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+c:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+6:X
+e:X
+e:C
+0:{"buildId":"yw6RrMFjLq_nIldyxlJTe","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-12","children":[["$","h1",null,{"className":"text-3xl font-black text-lao-green","children":"Liên hệ chúng tôi"}],["$","p",null,{"className":"mt-2 text-muted","children":"Đội ngũ sẵn sàng tư vấn chọn máy phù hợp"}],["$","div",null,{"className":"mt-8 grid gap-8 lg:grid-cols-2","children":[["$","div",null,{"className":"rounded-3xl bg-white p-8 shadow-lg space-y-3","children":[["$","a",null,{"href":"tel:+8562052016789","className":"block text-2xl font-black text-crimson","children":"+856 20 52 016 789"}],["$","a",null,{"href":"https://wa.me/8562052016789","target":"_blank","rel":"noopener noreferrer","className":"block font-bold text-mekong","children":"WhatsApp 24/7"}],["$","a",null,{"href":"mailto:info@japan2ndlife.la","className":"block","children":"info@japan2ndlife.la"}],["$","p",null,{"children":"Viêng Chăn, Lào"}],["$","a",null,{"href":"https://maps.app.goo.gl/Wd94ymAHz3fBy9QP9?g_st=ic","target":"_blank","rel":"noopener noreferrer","className":"inline-block underline","children":"Google Maps"}]]}],["$","div",null,{"className":"overflow-hidden rounded-3xl shadow-lg","children":["$","iframe",null,{"title":"Bản đồ cửa hàng","src":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3794.5!2d102.63!3d17.97!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTfCsDU4JzEyLjAiTiAxMDLCsDM3JzQ4LjAiRQ!5e0!3m2!1sen!2sla!4v1","className":"h-80 w-full border-0","loading":"lazy","referrerPolicy":"no-referrer-when-downgrade"}]}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"JAPAN 2ND LIFE | Máy nông nghiệp Nhật bãi"}],["$","meta","1",{"name":"description","content":"Máy cày, máy gặt và thiết bị nông nghiệp nhập khẩu từ Nhật Bản. Chất lượng tốt – giá tốt."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","3",{"rel":"icon","href":"/brand/logo.svg"}],["$","$L9","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@a","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$6","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+4:null
+10:true
+6:300
+6:C
+f:0
+a:"$undefined"
+d:"$undefined"
+5:"$undefined"

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0F4C3A"/><stop offset="1" stop-color="#1B6B93"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <rect x="40" y="40" width="1120" height="720" fill="none" stroke="#D4AF37" stroke-width="6"/>
+  <text x="600" y="390" text-anchor="middle" fill="#F7F3E9" font-family="Arial" font-size="48" font-weight="700">washer</text>
+  <text x="600" y="450" text-anchor="middle" fill="#D4AF37" font-family="Arial" font-size="28">JAPAN 2ND LIFE</text>
+</svg>

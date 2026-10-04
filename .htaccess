@@ -1,0 +1,26 @@
+# Hostinger (Apache) — static site helpers
+# Copied into out/ + out_hostinger/ after build
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # `/` → default locale (Lao)
+  RewriteRule ^$ lo/ [R=302,L]
+
+  # Force trailing slash (matches Next trailingSlash)
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_URI} !(.*)/$
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*)$ $1/ [L,R=301]
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/css "access plus 7 days"
+  ExpiresByType application/javascript "access plus 7 days"
+  ExpiresByType image/png "access plus 30 days"
+  ExpiresByType image/jpeg "access plus 30 days"
+  ExpiresByType image/webp "access plus 30 days"
+  ExpiresByType image/svg+xml "access plus 30 days"
+</IfModule>
